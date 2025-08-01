@@ -7,4 +7,5 @@ My name is fcrownarisk，a simple frontend developer and technique blogger.
 ## The Lastest paragraphy
 ## Contact method
 📧 Email：1165482958@example.com  
-🐦 Twitter：[@fcrownarisk](#)
+🐦 Twitter： https://x.com/fcrownarisk
+   BlueSky: https://bsky.app/profile/xyztwiki.bsky.social
